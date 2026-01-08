@@ -130,6 +130,10 @@
 
 }
 
+.hover:hover {
+    cursor: pointer;
+}
+
 .btn2 {
     background-color: transparent;
     border: 2px solid white;
