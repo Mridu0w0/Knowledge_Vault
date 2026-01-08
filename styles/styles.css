@@ -337,6 +337,7 @@ footer {
 }
 
 .footer-logo {
+    font-size: 20px;
     display: flex;
     justify-content: space-between;
     padding: 50px 80px 120px 80px;
@@ -353,4 +354,10 @@ footer {
     color: #627382;
     font-size: 14px;
     padding-top: 30px;
+}
+
+.social-icons i {
+    margin-top: 5px;
+    font-size: 20px;
+    color: #ffffff;
 }
